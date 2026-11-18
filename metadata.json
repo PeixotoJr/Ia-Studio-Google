@@ -1,0 +1,8 @@
+{
+  "name": "Galpão Bier Intelligence",
+  "description": "Plataforma de Business Intelligence e gestão estratégica para a microcervejaria Galpão Bier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
